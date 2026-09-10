@@ -11,6 +11,12 @@ key is overwritten and everything inside becomes unreadable for good.
 
 Written in Rust. Runs on Windows, macOS and Linux. Apache 2.0.
 
+# Who Is ZeroTrace For?
+
+ZeroTrace is designed for individuals, professionals, and organizations that need a private place to store files they consider too sensitive to leave in ordinary folders or cloud storage. It is particularly suited for small businesses and professionals who routinely handle confidential information, including law firms, accounting and financial practices, medical and dental offices, insurance agencies, private investigators, security companies, engineering firms, technology companies, HR organizations, and government or defense contractors. ZeroTrace is intended to provide a simple, local-first approach to protecting sensitive business data without requiring an organization to move everything into a cloud-based service.
+
+ZeroTrace is also designed for individuals who want stronger protection for their most important personal information, including financial records, tax documents, legal and estate documents, private photographs, recovery information, research, and other files they simply don't want sitting unprotected on their computer. Journalists, investigators, researchers, executives, security professionals, and others who routinely work with sensitive information may also find ZeroTrace useful. At its core, ZeroTrace is built around a simple idea: some files deserve their own private, protected space.
+
 **Version 0.18.6. Not audited, not reviewed, not 1.0.** Please read
 [what it can't do](#what-it-cant-do) before you trust it with anything you
 can't replace.
